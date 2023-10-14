@@ -1,0 +1,17 @@
+\contentsline {chapter}{\numberline {第 1{} 章}翼鸟曾飞过这片地方}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}渣男}{2}{section.1.1}%
+\contentsline {section}{\numberline {1.2}启蒙}{3}{section.1.2}%
+\contentsline {section}{\numberline {1.3}天才在左，疯子在右}{4}{section.1.3}%
+\contentsline {section}{\numberline {1.4}无病呻吟}{5}{section.1.4}%
+\contentsline {section}{\numberline {1.5}立场}{6}{section.1.5}%
+\contentsline {section}{\numberline {1.6}意义是什么}{7}{section.1.6}%
+\contentsline {section}{\numberline {1.7}嗅觉的真理}{8}{section.1.7}%
+\contentsline {section}{\numberline {1.8}美梦总是很短暂}{9}{section.1.8}%
+\contentsline {section}{\numberline {1.9}受伤}{10}{section.1.9}%
+\contentsline {section}{\numberline {1.10}病发}{11}{section.1.10}%
+\contentsline {chapter}{\numberline {第 2{} 章}救赎}{12}{chapter.2}%
+\contentsline {section}{\numberline {2.1}暗夜}{13}{section.2.1}%
+\contentsline {section}{\numberline {2.2}缓刑加权}{14}{section.2.2}%
+\contentsline {section}{\numberline {2.3}关于学习}{15}{section.2.3}%
+\renewcommand {\cftchappresnum }{附录 }\renewcommand {\cftchapaftersnum }{}
+\contentsline {chapter}{\numberline {A}作业}{16}{appendix.A}%

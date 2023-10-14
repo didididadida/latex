@@ -1,0 +1,8 @@
+\frametitle{显示代码}
+    \begin{verbatim}
+    #include <stdio.h>
+    int main() {
+    printf("Hello, world!");
+    return 0;
+    }
+    \end{verbatim}
